@@ -5,8 +5,8 @@ let student1 = {
     "science Score" : 60 
 };
 
-console.log (student1["koreanScore"]);
+console.log(student1["koreanScore"]);
 
 console.log(student1.englishScore);
 
-console.log(studen1["science Score"])
+console.log(studen1["science Score"])``
