@@ -1,0 +1,66 @@
+.one{
+    color : black;
+    font-weight: bold;
+}
+
+footer{
+    text-align : center;
+    color : blanchedalmond;
+    background-color: #919191;;
+    width : 500px;
+    font-size:12px;
+    padding : 20px; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-box{
+    width: 500px;
+    padding: 40px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,0.1);
+}
+
+.name-text{
+    color : green;
+}
+
+h1{
+    text-align: right;
+    font-style: italic;
+}
+
+h2{
+    text-align: left;
+    font-style: oblique;
+    font-weight: 100;
+}
+
+.one{
+    text-align: right;
+}
+
+.experience_title{
+    font-weight: bold;
+    float: left;
+}
+
+.experience_year{
+    font-weight: lighter;
+    font-style: italic;
+    font-size: small;
+    float: right;
+}
+
+
+.experience_text{
+    font-size : 9px;
+    padding-left : 16px;
+}
+.float_wrap{
+    overflow: hidden;
+    padding-right: 10px;
+}
